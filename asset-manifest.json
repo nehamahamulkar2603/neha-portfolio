@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neha-portfolio/static/css/main.0ae69ecf.css",
+    "main.js": "/neha-portfolio/static/js/main.3aa3ef56.js",
+    "static/js/453.428a1b9c.chunk.js": "/neha-portfolio/static/js/453.428a1b9c.chunk.js",
+    "index.html": "/neha-portfolio/index.html",
+    "main.0ae69ecf.css.map": "/neha-portfolio/static/css/main.0ae69ecf.css.map",
+    "main.3aa3ef56.js.map": "/neha-portfolio/static/js/main.3aa3ef56.js.map",
+    "453.428a1b9c.chunk.js.map": "/neha-portfolio/static/js/453.428a1b9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae69ecf.css",
+    "static/js/main.3aa3ef56.js"
+  ]
+}

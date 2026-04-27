@@ -24,12 +24,12 @@ function App() {
       <section id="about" className="py-24 px-10" style={{background: "#1a0a3a"}}>
         <div className="max-w-5xl mx-auto flex flex-col md:flex-row gap-16 items-center">
           <div className="flex-shrink-0">
-            <img src="/neha-portfolio/profile.jpg" alt="Neha" className="w-72 h-72 rounded-2xl object-cover" style={{border: "1px solid rgba(124,58,237,0.3)"}} />
+            <img src="/profile.jpg" alt="Neha" className="w-72 h-72 rounded-2xl object-cover" style={{border: "1px solid rgba(124,58,237,0.3)"}} />
           </div>
           <div>
             <p className="text-purple-400 tracking-widest uppercase text-xs mb-2">Base Camp</p>
             <h2 className="text-4xl font-black mb-6">About <span className="text-purple-400">Me</span></h2>
-            <p className="text-gray-400 text-lg leading-relaxed mb-4">Full Stack Software Engineer with 3+ years building production-grade applications across Java, React.js, and AWS. From e-commerce storefronts to event-driven microservices and payment pipelines.</p>
+            <p className="text-gray-400 text-lg leading-relaxed mb-4">I’m a full stack software engineer with a focus on building reliable, scalable applications. Over the past few years, I’ve worked with Java, React, and AWS to develop everything from e-commerce experiences to event-driven systems and payment integrations. I like working on problems where thoughtful design and solid engineering make a real difference.</p>
             <p className="text-gray-400 text-lg leading-relaxed mb-6">I care about clean architecture, performance, and building things that feel seamless to the end user.</p>
             <div className="flex gap-6 text-gray-500 text-sm">
               <span>UI/UX</span>

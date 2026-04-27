@@ -2,7 +2,7 @@
   "name": "neha-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nehamahamulkar2603.github.io/neha-portfolio",
+  "homepage": "/",
   "dependencies": {
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
